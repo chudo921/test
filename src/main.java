@@ -4,5 +4,10 @@ public class main {
         System.out.println("Пришел разъебать тут все к хуям");
         System.out.println("Оу сука новые строчки блять");
         System.out.println("Щас я заебучсь блять нахуй");
+
+        int tesla = 150;
+        if (tesla > 200) {
+            System.out.println("США");
+        } else System.out.println("Россия");
     }
 }
